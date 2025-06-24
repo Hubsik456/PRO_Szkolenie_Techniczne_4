@@ -430,7 +430,6 @@ def Dane_Filtrowanie():
     #! Wyświetlenie wyników
     print("--- Dane Przefiltrowane ---")
     print(Dane_Przefiltrowane)
-    print(type(Dane_Przefiltrowane))
     print("---")
 
     #! Wyświetlenie wyników w TreeView
